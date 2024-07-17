@@ -1,0 +1,41 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    background: red;
+
+}
+
+.recipes li{
+    display: inline-block;
+
+}
+
+.recipes a{
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px 30px;
+
+}
+
+.recipes a:hover{
+    background: #fff;
+    color: red;
+}
+h1{
+    
+    text-align: center;
+    margin: 50px 50px;
+}
+
+
