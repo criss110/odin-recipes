@@ -40,13 +40,11 @@ h1{
 
 /*----lasagna---*/
 
-.lasagna{
+.las-row{
     display: flex;
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
+    justify-content: space-between;
 }
 
-.lasagna img {
-    flex-basis: auto;
+.lasagna{
+    flex-basis: 45%;
 }
