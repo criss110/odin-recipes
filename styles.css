@@ -41,7 +41,7 @@ h1{
 /*----lasagna---*/
 
 .lasagna{
-    display: inline-block;
+    display: block;
     padding: 0px;
     margin: 0px;
 }
